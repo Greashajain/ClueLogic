@@ -8,6 +8,12 @@ This Python project is designed to help solve the Clue deduction game using logi
 
 **Logic Functions:** Functions are used to check the knowledge base and deduce the possible cards.
 
+**Sample KnowledgeBase:-**
+
+![Screenshot from 2024-11-14 17-05-56](https://github.com/user-attachments/assets/e69ab7b4-7d48-45e4-b7c5-d062ad9a95ee)
+
+
+
 ## Symbols
 
 This project uses the following symbols for each game element:
