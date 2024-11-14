@@ -41,3 +41,8 @@ Knife (knife)
 Revolver (revolver)
 
 Wrench (wrench)
+
+### Output
+
+The output will indicate which elements are confirmed (YES), eliminated (NO), or undetermined (MAYBE), with confirmed results shown in green.
+
