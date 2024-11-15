@@ -10,7 +10,9 @@ This Python project is designed to help solve the Clue deduction game using logi
 
 **Sample KnowledgeBase:-**
 
-![Screenshot from 2024-11-14 17-05-56](https://github.com/user-attachments/assets/e69ab7b4-7d48-45e4-b7c5-d062ad9a95ee)
+<img src="https://github.com/user-attachments/assets/e69ab7b4-7d48-45e4-b7c5-d062ad9a95ee" alt="Maze Solver Screenshot" width="400" height="auto">
+
+
 
 
 
