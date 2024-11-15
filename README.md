@@ -6,7 +6,7 @@ This Python project is designed to help solve the Clue deduction game using logi
 
 **Knowledge Base:** Contains known information about the game state, such as eliminated possibilities and constraints.
 
-**Logic Functions:** Functions are used to check the knowledge base and deduce the possible cards.
+**Logic Functions:** Functions are used to check the knowledge base and deduce the possible cards. 
 
 **Sample KnowledgeBase:-**
 
